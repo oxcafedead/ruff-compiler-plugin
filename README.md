@@ -5,8 +5,6 @@ A convenient way to use it is via [vim-dispatch](https://github.com/tpope/vim-di
 
 Example of vimrc:
 ```vim
-let test#strategy = "dispatch"
-
 let g:dispatch_compilers = {
             \ 'ruff': 'ruff',
 ```
